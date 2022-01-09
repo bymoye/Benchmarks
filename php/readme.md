@@ -17,6 +17,7 @@
 | nowdoc         | 0.63    | 0.38    | 0.45    |
 | heredoc        | 0.61    | 0.45    | 0.50    |
 
+![echo](https://raw.githubusercontent.com/bymoye/Benchmarks/main/php/echo/echo.png)
 
 ### 带变量
 |                | Max(ms) | Min(ms) | Avg(ms) |
@@ -25,3 +26,5 @@
 | 双引号         | 0.96    | 0.83    | 0.87    |
 | html直出(混合) | 1.12    | 0.93    | 0.98    |
 | heredoc        | 1.63    | 0.87    | 1.02    |
+
+![echo_var](https://raw.githubusercontent.com/bymoye/Benchmarks/main/php/echo/echo_var.png)
