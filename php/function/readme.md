@@ -15,4 +15,4 @@
 | 匿名函数(传参)   | 0.19    | 0.08    | 0.10    |
 | 普通函数(传参)   | 0.11    | 0.01    | 0.03    |
 
-![echo](https://raw.githubusercontent.com/bymoye/Benchmarks/main/php/function/function.png)
+![function](https://raw.githubusercontent.com/bymoye/Benchmarks/main/php/function/function.png)
