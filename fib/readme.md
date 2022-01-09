@@ -26,4 +26,4 @@
 | cython_c | 3.58    | 3.23    | 3.28    |
 | php      | 101.27  | 87.03   | 91.62   |
 
-![fib](https://github.com/bymoye/Benchmarks/blob/master/fib/fib.png)
+![fib](https://raw.githubusercontent.com/bymoye/Benchmarks/main/fib/fib.png)
