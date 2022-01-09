@@ -25,4 +25,4 @@
 | cython | 120.95  | 100.50  | 111.49  |
 | php    | 2788.79 | 2645.78 | 2716.64 |
 
-![sort](https://github.com/bymoye/Benchmarks/blob/master/sort/sort.png)
+![sort](https://raw.githubusercontent.com/bymoye/Benchmarks/main/sort/sort.png)
