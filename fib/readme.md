@@ -1,10 +1,16 @@
 ## 环境
 > 系统：Windows 11
+
 > CPU： Intel(R) Core(TM) i5-8400
+
 > Java： 15
+
 > Python： 3.10
+
 > php： 8.1
+
 > go： 1.17
+
 > nodejs： 16.13.1
 
 ## 测试
