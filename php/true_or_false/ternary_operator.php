@@ -1,5 +1,5 @@
 <?php
-$temp = 'bccs啊';
+$temp = 'abc啧123';
 for ($i = 0; $i < 10;$i++){
     $startTime = hrtime(true);
     for ($j = 0; $j < 10000;$j++){

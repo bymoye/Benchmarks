@@ -1,5 +1,5 @@
 <?php
-$temp = 'bccs啊';
+$temp = 'abc啧123';
 $t = 0;
 $f = 0;
 for ($i = 0; $i < 10;$i++){
